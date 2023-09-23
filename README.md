@@ -2,6 +2,7 @@
 Exploratory Data Analysis (EDA) using SQL and visualization of findings in Power BI
 
 Dataset - Apple Store    (https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps)
+
 Visualization - https://drive.google.com/file/d/1uHl1H39YG-I2IkfTPmVEbP4eXpVAEWH1/view?usp=drive_link
 
 Steps - 
